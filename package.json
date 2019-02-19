@@ -1,0 +1,28 @@
+{
+  "name": "intranet",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de uma aplicação para estudo de node.js com front-end react\"",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "md5": "^2.2.1",
+    "mongoose": "^5.4.13",
+    "mongoose-enumvalues": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atiladelcanton/intranet.git"
+  },
+  "author": "Atila Delcanton Rampazo <atilarampazo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atiladelcanton/intranet/issues"
+  },
+  "homepage": "https://github.com/atiladelcanton/intranet#readme"
+}
